@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    color: rgb(125, 5, 5);
+    color: rgb(151, 24, 209);
     margin: 0px;
 }
 
@@ -14,11 +14,11 @@ header{
 h1{
     padding: 10px;
     font-size: 20px;
-    color: rgb(255, 13, 0)
+    color: rgba(255, 156, 8, 0.753)
 }
 
 p{
     padding: 5px;
     font-size: 15px;
-    color: rgb(154, 144, 144)
+    color: rgb(243, 24, 196)
 }
